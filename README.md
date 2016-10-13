@@ -15,4 +15,4 @@ General Requirements:
 * Pandas
 * LXML
 * BeautifulSoup
-* Selenium-Python
+* Selenium-Python + Mozilla Firefox
